@@ -35,9 +35,7 @@ android {
         viewBinding = true
     }
 }
-appsweep {
-    apiKey = "gs_appsweep_5ZAzIdA_BUw62Rj35K0N0mu0uTsjlrpmZzIsPv9k"
-}
+
 
 dependencies {
 
